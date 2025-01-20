@@ -1,0 +1,21 @@
+.odd {
+  background-color: rgb(300, 150, 100);
+  font-family: sans-serif;
+  font-weight: bold;
+  font-size: 32px;
+}
+
+#two {
+  color: rgb(0, 0, 300);
+  font-size: 60px;
+}
+
+#four {
+  font-weight: bold;
+  font-size: 40px;
+  background-color: hsl(120, 100%, 75%);
+}
+
+.font-size-80 {
+  font-size: 80px;
+}
